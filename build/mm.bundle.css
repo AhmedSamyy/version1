@@ -10513,7 +10513,7 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #3756ad;
+  background-color: #220d96;
   /* Change this to add a bg image or change color */
   background: -webkit-radial-gradient(#4d2dff, #220d96);
   background: radial-gradient(#4d2dff, #220d96);
@@ -12957,7 +12957,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #220d96;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
