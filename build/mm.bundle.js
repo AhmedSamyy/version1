@@ -6968,7 +6968,7 @@ angular.module('mm.core')
             if (typeof release != 'undefined') {
                 var version = release.substr(0, 3).replace(".", "");
                 if (parseInt(version) >= 24) {
-                    docsurl = docsurl.replace('https://tms-egypt.co/lms', 'https://tms-egypt.co/lms' + version + '/');
+                    docsurl = docsurl.replace('https://tms-egypt.co/lms', 'https://tms-egypt.co/lms');
                 }
             }
             return $mmLang.getCurrentLanguage().then(function(lang) {
