@@ -10513,10 +10513,10 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #220d96;
+  background-color: #3756ad;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#4d2dff, #220d96);
-  background: radial-gradient(#4d2dff, #220d96);
+  background: -webkit-radial-gradient(#4d2dff, #3756ad);
+  background: radial-gradient(#4d2dff, #3756ad);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -12957,7 +12957,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #220d96;
+  background-color: #3756ad;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
